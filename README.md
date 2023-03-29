@@ -1,2 +1,2 @@
 # NbaMVP
-Y3 Artificial Intelligence é Machine Learning 2 Project
+Y3 Artificial Intelligence & Machine Learning 2 Project
